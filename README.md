@@ -13,5 +13,6 @@ This project is a website application developed to promote the best software aca
 - *Responsive Design*: The project is designed to adapt to different devices and screen sizes using Bootstrap.
 - *Modern Interface*: Features a colorful and user-friendly interface to attract visitors.
 - *Easy Navigation*: Simple and clear menus allow users to easily navigate through the site.
-##Demo
+- 
+## Demo
 ![demo-udemig education](https://github.com/user-attachments/assets/1c718063-ba77-4498-a2c4-73efcf66ea8a)
